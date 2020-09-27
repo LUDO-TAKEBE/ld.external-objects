@@ -15,7 +15,7 @@ public:
     MIN_AUTHOR		{"LUDO TAKEBE"};
     MIN_RELATED		{"print"};
 
-    inlet<>  input	{ this, "(bang) post greeting to the max console" };
+    inlet<>  input	{ this, "(bang) post bio to the max console" };
 
 
     // respond to the bang message to do something
