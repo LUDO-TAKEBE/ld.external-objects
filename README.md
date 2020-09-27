@@ -1,0 +1,1 @@
+# ld.external-objects
